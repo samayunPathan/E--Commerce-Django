@@ -49,7 +49,9 @@ create a vertual environment , activate it ,Then install
   Then : pip install -r requirements.txt
 
 ```
-    
+## Deployment 
+https://pathan-e-commerce.onrender.com/
+
 ## Screenshots
 
 
